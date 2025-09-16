@@ -22,10 +22,10 @@
 
 ### 💼 **Experience**
 - **Software Engineer** at Brain Station 23 | May 2025 - Present
-  - Developed custom Moodle plugins, including a Chrome Extension-based screen monitoring plugin for real-time screen sharing and a Fluency Track plugin using speech-to-text APIs for oral assessments.
-  - Built a Library Management System using React and Laravel, which integrated Moodle SSO.
+- Developed custom Moodle plugins, including a Chrome Extension-based screen monitoring plugin for real-time screen sharing and a Fluency Track plugin using speech-to-text APIs for oral assessments.
+- Built a Library Management System using React and Laravel, which integrated Moodle SSO.
 - **Junior Software Engineer** at Techsist Limited | July 2024 - April 2025
-  - Designed and implemented RESTful APIs for a University Management System using Django and PostgreSQL.
+- Designed and implemented RESTful APIs for a University Management System using Django and PostgreSQL.
 
 ---
 
@@ -40,7 +40,7 @@
 - Built a Library Management System using React and Laravel, integrating Moodle SSO for user authentication.
 - **Technologies**: React, Laravel, MySQL, Moodle APIs, AJAX
 - #### [umar-eg.com](https://umar-eg.com/)
--Designed and implemented RESTful APIs for this University Management System using Django and PostgreSQL.
+- Designed and implemented RESTful APIs for this University Management System using Django and PostgreSQL.
 - **Technologies**: Django, PostgreSQL, RESTful APIs
 - #### **Restaurant API**
 - Order management APIs for a restaurant management system.
@@ -49,7 +49,7 @@
 
 ### 📚 **Research**
 - **De-Glared: Eyeglasses Glare and Reflection Removal Using Deep Neural Networks**
-  - Published in the IEEE International Conference on Computer and Information Technology (ICCIT) 2023.
+- Published in the IEEE International Conference on Computer and Information Technology (ICCIT) 2023.
 
 ---
 
