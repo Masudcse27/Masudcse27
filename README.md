@@ -33,7 +33,7 @@
 - **Screen Monitoring**: Developed a Chrome Extension-based screen monitoring plugin for Moodle, enabling real-time screen sharing and screenshot capture.
 - **FluencyTrack**: Engineered a Moodle plugin using speech-to-text APIs and NLP for fluency and grammar analysis, integrated with Moodle Gradebook to automate oral assessments.
 - **Library Management System**: Built a Library Management System using React and Laravel, integrating Moodle SSO for user authentication.
-- **umar-eg.com**: Designed and implemented RESTful APIs for this University Management System using Django and PostgreSQL.
+- **umar-eg.com**: Designed and implemented RESTful APIs for this Website System using Django and PostgreSQL.
 - **Codewar**: An online judge platform for coding contests and problem-solving.
 - **Restaurant API**: Order management APIs for a restaurant management system.
 
