@@ -42,8 +42,6 @@
 - #### [umar-eg.com](https://umar-eg.com/)
   - Designed and implemented RESTful APIs for this University Management System using Django and PostgreSQL.
   - **Technologies**: Django, PostgreSQL, RESTful APIs
-- #### **Restaurant API**
-  - Order management APIs for a restaurant management system.
 
 ---
 
