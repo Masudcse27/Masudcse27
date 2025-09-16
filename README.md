@@ -30,12 +30,20 @@
 ---
 
 ### 🚀 **Projects**
-- **Screen Monitoring**: Developed a Chrome Extension-based screen monitoring plugin for Moodle, enabling real-time screen sharing and screenshot capture.
-- **FluencyTrack**: Engineered a Moodle plugin using speech-to-text APIs and NLP for fluency and grammar analysis, integrated with Moodle Gradebook to automate oral assessments.
-- **Library Management System**: Built a Library Management System using React and Laravel, integrating Moodle SSO for user authentication.
-- **umar-eg.com**: Designed and implemented RESTful APIs for this Website System using Django and PostgreSQL.
-- **Codewar**: An online judge platform for coding contests and problem-solving.
-- **Restaurant API**: Order management APIs for a restaurant management system.
+- #### [Screen Monitoring](https://github.com/Masudcse27/quizaccess_screenmonitoring)
+  - Developed a Chrome Extension-based Moodle plugin for real-time screen sharing and screenshot capture during quizzes.
+  - **Technologies**: PHP, Moodle APIs, JavaScript
+- #### **FluencyTrack**(https://github.com/Masudcse27/fluencytrack)
+  - Engineered a Moodle plugin using speech-to-text APIs and NLP for fluency and grammar analysis, integrated with Moodle Gradebook to automate oral assessments.
+  - **Technologies**: PHP, Moodle APIs, 3rd party AI APIs
+- #### **Library Management System**(https://github.com/Masudcse27/bs_library_management_system)
+  - Built a Library Management System using React and Laravel, integrating Moodle SSO for user authentication.
+  - **Technologies**: React, Laravel, MySQL, Moodle APIs, AJAX
+- #### **umar-eg.com**(https://umar-eg.com/)
+  - Designed and implemented RESTful APIs for this University Management System using Django and PostgreSQL.
+  - **Technologies**: Django, PostgreSQL, RESTful APIs
+- #### **Restaurant API**
+  - Order management APIs for a restaurant management system.
 
 ---
 
