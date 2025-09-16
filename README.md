@@ -35,13 +35,16 @@
   - **Technologies**: PHP, Moodle APIs, JavaScript
 - #### [FluencyTrack](https://github.com/Masudcse27/fluencytrack)
   - Engineered a Moodle plugin using speech-to-text APIs and NLP for fluency and grammar analysis, integrated with Moodle Gradebook to automate oral assessments. 
-  -- **Technologies**: PHP, Moodle APIs, 3rd party AI APIs
+  
+  - **Technologies**: PHP, Moodle APIs, 3rd party AI APIs
 - #### [Library Management System](https://github.com/Masudcse27/bs_library_management_system)
   - Built a Library Management System using React and Laravel, integrating Moodle SSO for user authentication.
-  -- **Technologies**: React, Laravel, MySQL, Moodle APIs, AJAX
+  
+  - **Technologies**: React, Laravel, MySQL, Moodle APIs, AJAX
 - #### [umar-eg.com](https://umar-eg.com/)
   -Designed and implemented RESTful APIs for this University Management System using Django and PostgreSQL.
-  -- **Technologies**: Django, PostgreSQL, RESTful APIs
+  
+  - **Technologies**: Django, PostgreSQL, RESTful APIs
 - #### **Restaurant API**
   - Order management APIs for a restaurant management system.
 
