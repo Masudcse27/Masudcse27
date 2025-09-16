@@ -54,10 +54,10 @@
 ---
 
 ### 🎮 **Competitive Programming**
-- **Achievements**: Secured 1st Runner-up at UIU Coders' Combat 3.0 out of 200+ participants.
-- **Online Judges**: Solved over 1200+ problems.
-  - **Codeforces**: Max Rating 1521 (Specialist)
-  - **CodeChef**: Max Rating 1500+
+- **Codeforces**: [mbhuiyan071](https://codeforces.com/profile/mbhuiyan071) | **Max Rating**: Specialist, 1521 | **Solved**: 300+ problems
+- **vjudge**: [Masud_Bhuiyan](https://vjudge.net/user/Masud_Bhuiyan) | [cite_start]**Solved**: 300+ problems
+- **Codechef**: [masudb98](https://www.codechef.com/users/masudb98) | **Highest Rating**: 1500 | **Solved**: 30+ problems
+- **toph**: [Masud.cse](https://toph.co/u/Masud.cse) | **Solved**: 40+ problems
 
 ---
 
